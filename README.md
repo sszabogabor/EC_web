@@ -1,2 +1,2 @@
 # EC_web
-website EC tools
+Website for basic calculations according to eurocode. HTML+PHP with MVC pattern.
